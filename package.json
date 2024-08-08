@@ -1,0 +1,21 @@
+{
+  "name": "nodetool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "cli": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "commander": "^12.1.0",
+    "date-fns": "^3.6.0",
+    "puppeteer": "^23.0.1"
+  }
+}
